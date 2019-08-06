@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9425-8D12
+
+ Directory of C:\Users\kusal\Desktop\tool
+
+08/06/2019  03:56 PM    <DIR>          .
+08/06/2019  03:56 PM    <DIR>          ..
+08/06/2019  03:56 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  864,301,797,376 bytes free
